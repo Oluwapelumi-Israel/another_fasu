@@ -1,0 +1,275 @@
+{
+  "notify": "Estimados usuarios, enciendan la ubicación de su dispositivo para disfrutar de este servicio. Haga clic en Aceptar para continuar",
+  "ok": "De acuerdo",
+  "fasuGame": "JUEGOS FASU",
+  "accommodation": "Alojamiento",
+  "sportVenue": "Lugar deportivo",
+  "religiousCentre": "Centro Religioso",
+  "eatery": "Restaurantes",
+  "hospitals": "hospitales",
+  "pharmacy": "Farmacia",
+  "market": "Supermercado",
+  "interest": "Lugares de interés",
+  "home": "Hostales",
+  "male": "Masculino",
+  "female": "Femenino",
+  "click": "Haga clic aquí",
+  "unilagFemaleHostel": [{"name": "Unilag Women Society (ULWS) Albergue femenino", "address": "Instituto de Educación a Distancia, DLI Rd, Universidad de Lagos, Lagos 101245, Lagos", "image": "assets/images/Unilag_women_society.jpg"}, {"name":"Salón Fagunwa Unilag","address": "G99R+XQP Fagunwa Hall Unilag, Lagos","image": "assets/images/Fagunwa_hall.jpg"}, {"name": "Sala Kofo Ademola", "address": "G97P+W8W, Ransome Kuti Rd, Yaba, Lagos 101245, Lagos", "image": "assets/images/Kofo_hall.jpg"},{"name": "Salón Señora Tinubu","address": "G9CR+4MM, Commercial Rd, Universidad de Lagos, Lagos 101245, Lagos", "image": "assets/images/Madam_Tinubu_Hall.jpg"},{"name": "Salón de Honores", "address": "Universidad de Lagos, Lagos 101245, Lagos","image": "assets/images/Honours_Hall.jpg"},{"name": "Amina Hall","address": "Universidad de Lagos, University Rd, Yaba, Lagos 101245, Lagos", "image": "assets/images/Queen_Amina_Hall.jpg"}, {"name": "Salón Makama", "address": "G99R+QVP, Dan Fodio Boulevard, Akoka, Lagos 101245, Lagos", "image": "assets/images/Aliyu_Makama_Hall.jpg"},{"name": "Residencia Moremi UNILAG Lagos","address": "Tafawa Balewa Way, Universidad de Lagos, Lagos 101245, Lagos", "image": "assets/images/Moremi_Hall.jpg"}],
+  "unilagMaleHostel": [
+    {
+      "name": "Sala Lal Kanemi - Unilag",
+      "address": "G98M+CQ4, Ransome Kuti Rd, Yaba, Lagos 101245, Lagos",
+      "image": "assets/images/The_El_Kaneme_hall.jpg"
+    },
+    {
+      "name": "Residencia Universitaria Femi Gbajabiamila",
+      "address": "G98M+MVC, Ransome Kuti Rd, Onike, Iwaya 101245, Lagos",
+      "image": "assets/images/femi_gbajabiamila_hostel.jpg"
+    },
+    {
+      "name": "Sala Sodeinde",
+      "address": "En Fodio St, Akoka, Lagos 101245, Lagos",
+      "image": "assets/images/Sodehinde_hall.jpg"
+    },
+    {
+      "name": "Propietario del Salón Njoku",
+      "address": "En Fodio Boulevard, Yaba, Lagos 101245, Lagos",
+      "image": "assets/images/Eni_Njoku_hall.jpg"
+    },
+    {
+      "name": "Salón Rey Jaja",
+      "address": "G98X+F48, Tafawa Balewa Way, Universidad de Lagos, Lagos 101245, Lagos",
+      "image": "assets/images/King_Jaja_Hall.jpg"
+    },
+    {
+      "name": "María Hall",
+      "address": "G99X+764, Mariere Pass, Universidad de Lagos, Lagos 101245, Lagos",
+      "image": "assets/images/Mariere_Hall.jpg"
+    },
+    {
+      "name": "Sala Prof. Saburi Biobaku",
+      "address": "Universidad de Lagos, University Rd, Yaba, Lagos 101245, Lagosv",
+      "image": "assets/images/Sabiru_Biobaku_hall.jpg"
+    }
+  ],
+  "sportCentres": {
+    "Unilag": {
+      "name": "Centro deportivo, Universidad de Lagos Akoka",
+      "address": "Universidad de Lagos, University Rd, Yaba, Lagos 101245, Lagos",
+      "image": "assets/images/Unilag_Sport_Center.jpg"
+    },
+    "Lasu": {
+      "name": "polideportivo forestal",
+      "address": "sala común, Lasu Main Rd, Ojo, Lagos 102101, Lagosv",
+      "image": "assets/images/LASU_Sports_Centre.jpg"
+    }
+  },
+  "religiousCentres": {
+    "Unilag": [
+      {
+        "name": "Capilla de Cristo Nuestra Luz, Universidad de Lagosv",
+        "address": "Unilag Gate (University Road), Dan Fodio Street, Yaba, Lagos 101245, Lagos",
+        "image": "assets/images/Chapel_Unilag.jpg"
+      },
+      {
+        "name": "Capellanía Católica de Santo Tomás Moro, Universidad de Lagos",
+        "address": "Universidad de Lagos, Lagos 101245, Lagos",
+        "image": "assets/images/Methodist_Unilag.jpg"
+      },
+      {
+        "name": "Centro Islámico Unilag",
+        "address": "Universidad de Lagos, Lagos 101245, Lagos",
+        "image": "assets/images/Mosque_Unilag.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "LASU - Capilla de la Luz",
+        "address": "F58X + XFX, Universidad Estatal de Lagos, Eye, Lagos 102101, Lagos",
+        "image": "assets/images/Lasu_Chapel_of_light.jpg"
+      },
+      {
+        "name": "LASU Mosque Central Mosque, OJO",
+        "address": "F58X+5XH, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/Lasu_Mosque.jpg"
+      }
+    ]
+  },
+  "restaurantsCentre": {
+    "Unilag": [
+      {
+        "name": "Salón de Usos Múltiples Unilag (Comedor de deportistas)",
+        "address": "G98P + WWG, Universidad Road Yaba, Akoka, Lagos 101245",
+        "image": "assets/images/multipurpose_hall.jpg"
+      },
+      {
+        "name": "Salado Cafeteria",
+        "address": "Universidad de Lagos, University Rd, Yaba, Lagos 101245, Lagos",
+        "image": "assets/images/Salado_Cafeteria.jpg"
+      },
+      {
+        "name": "Espaguetis coreanos",
+        "address": "UNILAG, Teatro Amphi, Universidad de Lagos, Lagos 101245, Lagos",
+        "image": "assets/images/Korede_Spaghetti.jpg"
+      },
+      {
+        "name": "No, ría",
+        "address": "Universidad de Lagos, Lagos 101245, Lagos",
+        "image": "assets/images/Iya_Moria.jpg"
+      },
+      {
+        "name": "El bistró de Ijay",
+        "address": "2001 Cafetería Unilag, Yaba, Lagos 101245, Lagos",
+        "image": "assets/images/2001_Cafeteria.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "Comedor de comida para el personal de Olaiya.",
+        "address": "Lasu senior staff club, Ojo, Lagos 080384, Lagos",
+        "image": "assets/images/Olaiya_Staff_Food_Canteen_Lasu.jpg"
+      },
+      {
+        "name": "Amala conjunta hoy",
+        "address": "sala común, Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/aj_amala_joint.jpg"
+      },
+      {
+        "name": "Restaurante Lasu Capilla de la Luz",
+        "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/Chapel_of_light_eatery.jpg"
+      },
+      {
+        "name": "restaurante coeficiente intelectual",
+        "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/Iq_restaurant.jpg"
+      }
+    ]
+  },
+  "hospital": {
+    "Unilag": [
+      {
+        "name": "Laboratorio médico y centro de maternidad de KAAF (KAAF-MLMC)",
+        "address": "Akinpelu Adesola Rd, Universidad de Lagos, Lagos 101245, Lagos",
+        "image": "assets/images/Kaaf_Unilag.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "Centro de atención primaria de salud de la Universidad Estatal de Lagos",
+        "address": "Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/Lasu_Medical_Centre.jpg"
+      },
+      {
+        "name": "Clínica de Derecho - Universidad Estatal de Lagos",
+        "address": "F682 + QWJ, Dentro de la Universidad Estatal de Lagos, Lagos - Badagry Expy, Ojo, Lagos",
+        "image": "assets/images/Law_clinic.jpg"
+      }
+    ]
+  },
+  "clinic": {
+    "Unilag": [
+      {
+        "name": "Farmacia Unilagv",
+        "address": "G99V+CRC, Dan Fodio St, Yaba, Lagos 101245, Lagos",
+        "image": "assets/images/Unilag_Pharmacy.jpg"
+      },
+      {
+        "name": "COMER COMER FARMACIAS",
+        "address": "Universidad de Lagos, University Rd, Yaba, Lagos 101245, Lagos",
+        "image": "assets/images/YEM_YEM_PHARMACY.jpg"
+      }
+    ]
+  },
+  "supermarket": {
+    "Unilag": [
+      {
+        "name": "COMER COMER SUPERMERCADO",
+        "address": "Campus de la Universidad de Lagos, complejo comercial principal de Unilag, Dan Fodio St, Yaba, Lagos",
+        "image": "assets/images/yem_yem_market.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "Mercado del pueblo FASU",
+        "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/fasu_market_lasu.jpg"
+      },
+      {
+        "name": "Supermercado AJ",
+        "address": "sala común, Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/aj_supermarket.jpg"
+      },
+      {
+        "name": "Mercado de la ciencia Lasu",
+        "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/science_supermarket_lasu.jpg"
+      }
+    ]
+  },
+  "interestLasu": [
+    {
+      "name": "Punto sin retorno Badagry",
+      "address": "9VVH+HR3, Badagry 103241, Lagos",
+      "description": "Es el icónico lugar de partida final de los esclavos hacia una tierra de destinos desconocidos. Se encuentra entre la laguna y el Océano Atlántico en la isla Gberefu, Badagry.",
+      "images": "assets/images/Place_of_no_return.jpg"
+    },
+    {
+      "name": "Museo de Reliquias de Esclavos de la Familia Real Mobee Badagry",
+      "address": "NO. 1 BOEKOH QUARTERS, MARINA BADAGRY Gobierno local de Badagry, Lagos",
+      "description": "El museo Mobee Slave Relies. El museo Mobee pertenece a una de las familias prominentes que participaron en la trata de esclavos en Badagry.",
+      "images": "assets/images/Mobee_slave.jpg"
+    },
+    {
+      "name": "Mercado de esclavos de Badagry",
+      "address": "Posukoh Rojo, Bhadragiri 103101, Lagos",
+      "description": "Museo del Mercado de Esclavos de Vlekete. Originalmente era un santuario Vothun, pero se estableció como un mercado de esclavos en 1502, que fue un importante mercado de esclavos en la costa oeste durante la era del comercio de esclavos.  También se utilizó como tribunal de justicia tradicional donde Richard Lander fue juzgado por primera vez por ser un espía británico.",
+      "images": "assets/images/slave_market.jpg"
+    },
+    {
+      "name": "Memorial del árbol de Agia - Badagryv",
+      "address": "CV7J+GW6, Soglo Way, Badagry 103101, Lagos",
+      "description": "El monumento al árbol de Agia. Fue el lugar emblemático donde Birch Freeman y Henry Townsend pronunciaron el primer sermón cristiano en Nigeria en 1842. Fue el lugar donde se predicó por primera vez el cristianismo y se celebró la Navidad por primera vez en suelo nigeriano.",
+      "images": "assets/images/Agia_monu.jpg"
+    },
+    {
+      "name": "Edificio de primera planta",
+      "address": "Badagry 103101, Lagos",
+      "description": "El edificio de primer piso en Nigeria, establecido en 1842. Aquí es donde el famoso Samuel Ajayi Crowder tradujo la Biblia en inglés al idioma yoruba. En el recinto del edificio se encuentra el primer pozo de agua excavado en Nigeria.",
+      "images": "assets/images/first_storey.jpg"
+    },
+    {
+      "name": "Playa bronceada",
+      "address": "Badagry 103241, Lagos",
+      "description": "",
+      "images": "assets/images/badagry_beach.jpg"
+    }
+  ],
+  "interestUnilag": [
+    {
+      "name": "Frente a la laguna Unilag",
+      "address": "GCC2+J3P, Otunba Payne St, Akoka, Lagos 101245, Lagos",
+      "description": "Se inauguró el recientemente renovado frente a la laguna de la Universidad de Lagos.",
+      "images": "assets/images/Lagoon_front.jpg"
+    },
+    {
+      "name": "Parque Adetokunbo Sofoluwe",
+      "address": "Universidad de Lagos, Lagos 101245, Lagos",
+      "description": "El antiguo parque recreativo del Senado ha sido rediseñado y renombrado en honor del difunto Vicecanciller de UNILAG, el Profesor Adetokunbo Sofoluwe.",
+      "images": "assets/images/Sofoluwe.jpg"
+    }
+  ],
+
+  "lasuhostel": [
+    {
+      "name": "Te llamarás Olatunji Bello salón 1",
+      "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+      "image": "assets/images/Lasu_hostel.jpg"
+    },
+    {
+      "name": "Te llamarás Olatunji Bello salón 2",
+      "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+      "image": "assets/images/Lasu_hostel_2.jpg"
+    }
+  ]
+}

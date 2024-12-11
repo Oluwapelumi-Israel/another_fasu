@@ -1,0 +1,276 @@
+{
+  "notify": "عزيزي المستخدمين، يرجى تشغيل موقع جهازك للاستمتاع بهذه الخدمة. انقر فوق \"موافق\" للمتابعة",
+  "ok": "نعم",
+  "fasuGame": "ألعاب فاسو",
+  "accommodation": "أماكن الإقامة",
+  "sportVenue": "مكان رياضي",
+  "religiousCentre": "مركز ديني",
+  "eatery": "المطاعم",
+  "hospitals": "المستشفيات",
+  "pharmacy": "صيدلية",
+  "market": "سوبر ماركت",
+  "interest": "الأماكن ذات الأهمية",
+  "home": "نزل",
+  "male": "ذكر",
+  "female": "أنثى",
+  "click": "انقر هنا",
+  "unilagFemaleHostel": [{ "name": "نزل نسائي لجمعية Unilag النسائية (ULWS).","address":"معهد التعلم عن بعد، طريق DLI، جامعة لاغوس، لاغوس 101245، لاغوس","image":"assets/images/Unilag_women_society.jpg"}, { "name": "قاعة فاجونوا يونيلاج", "address": "G99R+XQP فاجونوا هول يونيلاج، لاغوس", "image": "assets/images/Fagunwa_hall.jpg"}, {"name": "قاعة كوفو أديمولا", "address": "G97P+W8W، طريق رانسوم كوتي، يابا، لاغوس 101245، لاغوس", "image": "assets/images/Kofo_hall.jpg"}, {"name": "قاعة السيدة تينوبو", "address": "G9CR + 4MM، الطريق التجاري، جامعة لاغوس، لاغوس 101245، لاغوس","image": "assets/images/Madam_Tinubu_Hall.jpg"}, {"name": "قاعة التكريم", "address": "جامعة لاغوس، لاغوس 101245، لاغوس", "image": "assets/images/Honours_Hall.jpg"}, {"name": "قاعة أمينة", "address": "جامعة لاغوس، طريق الجامعة، يابا، لاغوس 101245، لاغوس","image": "assets/images/Queen_Amina_Hall.jpg"}, {"name": "قاعة مكامة","address": "G99R + QVP، Dan Fodio Boulevard، أكوكا، لاغوس 101245، لاغوس", "image": "assets/images/Aliyu_Makama_Hall.jpg"}, {"name": "قاعة سكن موريمي UNILAG لاغوس","address": "طريق تافاوا باليوا، جامعة لاغوس، لاغوس 101245، لاغوس", "image": "assets/images/Moremi_Hall.jpg"}],
+  "unilagMaleHostel": [
+    {
+      "name": "قاعة لال كانيمي - يونيلاج",
+      "address": "G98M+CQ4، طريق رانسوم كوتي، يابا، لاغوس 101245، لاغوس",
+      "image": "assets/images/The_El_Kaneme_hall.jpg"
+    },
+    {
+      "name": "قاعة سكن فيمي غباجابياميلا",
+      "address": "G98M+MVC، طريق رانسوم كوتي، أونيك، إيوايا 101245، لاغوس",
+      "image": "assets/images/femi_gbajabiamila_hostel.jpg"
+    },
+    {
+      "name": "قاعة سوديندي",
+      "address": "في شارع فوديو، أكوكا، لاغوس 101245، لاغوس",
+      "image": "assets/images/Sodehinde_hall.jpg"
+    },
+    {
+      "name": "هذه هي القاعة هذه هي القاعة",
+      "address": "في فوديو بوليفارد، يابا، لاغوس 101245، لاغوس",
+      "image": "assets/images/Eni_Njoku_hall.jpg"
+    },
+    {
+      "name": "قاعة الملك جاجا",
+      "address": "G98X + F48، طريق تافاوا باليوا، جامعة لاغوس، لاغوس 101245، لاغوس",
+      "image": "assets/images/King_Jaja_Hall.jpg"
+    },
+    {
+      "name": "ماري هال",
+      "address": "G99X+764، ماريير باس، جامعة لاغوس، لاغوس 101245، لاغوس",
+      "image": "assets/images/Mariere_Hall.jpg"
+    },
+    {
+      "name": "قاعة البروفيسور سابوري بيوباكو",
+      "address": "جامعة لاغوس، طريق الجامعة، يابا، لاغوس 101245، لاغوس",
+      "image": "assets/images/Sabiru_Biobaku_hall.jpg"
+    }
+  ],
+  "sportCentres": {
+    "Unilag": {
+      "name": "المركز الرياضي، جامعة لاغوس أكوكا",
+      "address": "جامعة لاغوس، طريق الجامعة، يابا، لاغوس 101245، لاغوس",
+      "image": "assets/images/Unilag_Sport_Center.jpg"
+    },
+    "Lasu": {
+      "name": "مركز الغابة الرياضي",
+      "address": "غرفة مشتركة، طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+      "image": "assets/images/LASU_Sports_Centre.jpg"
+    }
+  },
+  "religiousCentres": {
+    "Unilag": [
+      {
+        "name": "كنيسة المسيح نورنا، جامعة لاغوس",
+        "address": "بوابة Unilag (طريق الجامعة)، شارع دان فوديو، يابا، لاغوس 101245، لاغوس",
+        "image": "assets/images/Chapel_Unilag.jpg"
+      },
+      {
+        "name": "كنيسة القديس توماس مور الكاثوليكية، جامعة لاغوس",
+        "address": "جامعة لاغوس، لاغوس 101245، لاغوس",
+        "image": "assets/images/Methodist_Unilag.jpg"
+      },
+      {
+        "name": "مركز يونيلاج الإسلامي",
+        "address": "جامعة لاغوس، لاغوس 101245، لاغوس",
+        "image": "assets/images/Mosque_Unilag.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "لاسو - كنيسة النور",
+        "address": "F58X+XFX، جامعة ولاية لاغوس، آي، لاغوس 102101، لاغوس",
+        "image": "assets/images/Lasu_Chapel_of_light.jpg"
+      },
+      {
+        "name": "مسجد لاسو المسجد المركزي، العين",
+        "address": "F58X+5XH، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/Lasu_Mosque.jpg"
+      }
+    ]
+  },
+  "restaurantsCentre": {
+    "Unilag": [
+      {
+        "name": "قاعة Unilag متعددة الأغراض (منطقة تناول طعام الرياضيين)",
+        "address": "G98P+WWG، طريق الجامعة يابا، أكوكا، لاغوس 101245",
+        "image": "assets/images/multipurpose_hall.jpg"
+      },
+      {
+        "name": "كافتيريا مالح",
+        "address": "جامعة لاغوس، طريق الجامعة، يابا، لاغوس 101245، لاغوس",
+        "image": "assets/images/Salado_Cafeteria.jpg"
+      },
+      {
+        "name": "كوريدي سباغيتي",
+        "address": "UNILAG، مسرح أمفي، جامعة لاغوس، لاغوس 101245، لاغوس",
+        "image": "assets/images/Korede_Spaghetti.jpg"
+      },
+      {
+        "name": "لا يا ريا",
+        "address": "جامعة لاغوس، لاغوس 101245، لاغوس",
+        "image": "assets/images/Iya_Moria.jpg"
+      },
+      {
+        "name": "حانة إيجاي الصغيرة",
+        "address": "2001 كافتيريا يونيلاج، يابا، لاغوس 101245، لاغوس",
+        "image": "assets/images/2001_Cafeteria.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "مقصف طعام موظفي العليا",
+        "address": "نادي كبار الموظفين في لاسو، أوجو، لاغوس 080384، لاغوس",
+        "image": "assets/images/Olaiya_Staff_Food_Canteen_Lasu.jpg"
+      },
+      {
+        "name": "أمالا المشتركة اليوم",
+        "address": "غرفة مشتركة، طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/aj_amala_joint.jpg"
+      },
+      {
+        "name": "لاسو مصلى المطعم الخفيف",
+        "address": "طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/Chapel_of_light_eatery.jpg"
+      },
+      {
+        "name": "مطعم آي كيو",
+        "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+        "image": "assets/images/Iq_restaurant.jpg"
+      }
+    ]
+  },
+  "hospital": {
+    "Unilag": [
+      {
+        "name": "مختبر KAAF الطبي ومركز الولادة (KAAF- MLMC)",
+        "address": "طريق أكينبيلو أديسولا، جامعة لاغوس، لاغوس 101245، لاغوس",
+        "image": "assets/images/Kaaf_Unilag.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "مركز الرعاية الصحية الأولية بجامعة ولاية لاغوس",
+        "address": "عين، لاغوس 102101، لاغوس",
+        "image": "assets/images/Lasu_Medical_Centre.jpg"
+      },
+      {
+        "name": "عيادة القانون - جامعة ولاية لاغوس",
+        "address": "F682+QWJ، داخل جامعة ولاية لاغوس، لاغوس - باداجري إكسبي، أوجو، لاغوس",
+        "image": "assets/images/Law_clinic.jpg"
+      }
+    ]
+  },
+  "clinic": {
+    "Unilag": [
+      {
+        "name": "صيدلية يونيلاج",
+        "address": "G99V + CRC، شارع دان فوديو، يابا، لاغوس 101245، لاغوس",
+        "image": "assets/images/Unilag_Pharmacy.jpg"
+      },
+      {
+        "name": "أكل أكل الصيدليات",
+        "address": "جامعة لاغوس، طريق الجامعة، يابا، لاغوس 101245، لاغوس",
+        "image": "assets/images/YEM_YEM_PHARMACY.jpg"
+      }
+    ]
+  },
+  "supermarket": {
+    "Unilag": [
+      {
+        "name": "أكل أكل سوبر ماركت",
+        "address": "حرم جامعة لاغوس، مجمع التسوق الرئيسي يونيلاج، شارع دان فوديو، يابا، لاغوس",
+        "image": "assets/images/yem_yem_market.jpg"
+      }
+    ],
+    "Lasu": [
+      {
+        "name": "سوق قرية فاسو",
+        "address": "طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/fasu_market_lasu.jpg"
+      },
+      {
+        "name": "سوبر ماركت ايه جي",
+        "address": "غرفة مشتركة، طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/aj_supermarket.jpg"
+      },
+      {
+        "name": "سوق العلوم لاسو",
+        "address": "طريق لاسو الرئيسي، أوجو، لاغوس 102101، لاغوس",
+        "image": "assets/images/science_supermarket_lasu.jpg"
+      }
+    ]
+  },
+  "interestLasu": [
+    {
+      "name": "نقطة اللاعودة باداجري",
+      "address": "9VVH+HR3، باداجري 103241، لاغوس",
+      "description": "إنها أرض المغادرة النهائية الشهيرة للعبيد إلى أرض الوجهات المجهولة. تقع بين البحيرة والمحيط الأطلسي في جزيرة غبريفو، باداغري",
+      "images": "assets/images/Place_of_no_return.jpg"
+    },
+    {
+      "name": "متحف موبي لآثار العبيد من العائلة المالكة",
+      "address": "لا. 1 BOEKOH QUARTERS، MARINA BADAGRY Badagry Local Government، لاغوس",
+      "description": "متحف موبي الرقيق ريليس. ينتمي متحف موبي إلى إحدى العائلات البارزة التي شاركت في تجارة الرقيق في باداغري.",
+      "images": "assets/images/Mobee_slave.jpg"
+    },
+    {
+      "name": "سوق العبيد باداغري",
+      "address": "بوسوكوه ريد، بهادراجيري 103101، لاغوس",
+      "description": "متحف سوق العبيد فليكيت. كان في الأصل ضريحًا لفوثون، ولكن تم إنشاؤه كسوق للعبيد في عام 1502 وكان سوقًا رئيسيًا للعبيد في الساحل الغربي خلال عصر تجارة الرقيق.  تم استخدامها أيضًا كمحكمة عدل تقليدية حيث تمت محاكمة ريتشارد لاندر لأول مرة لكونه جاسوسًا بريطانيًا.",
+      "images": "assets/images/slave_market.jpg"
+    },
+    {
+      "name": "نصب أجيا تري التذكاري - باداجري",
+      "address": "CV7J+GW6، طريق سوجلو، باداجري 103101، لاغوس",
+      "description": "النصب التذكاري لشجرة أجيا. كان هذا هو المكان المميز الذي أقيمت فيه أول خطبة مسيحية في نيجيريا على يد بيرش فريمان وهنري تاونسند في عام 1842. وكان المكان الذي تم فيه التبشير بالمسيحية لأول مرة والاحتفال بعيد الميلاد لأول مرة على الأراضي النيجيرية.",
+      "images": "assets/images/Agia_monu.jpg"
+    },
+    {
+      "name": "مبنى طابق أول",
+      "address": "باداغري 103101، لاغوس",
+      "description": "المبنى ذو الطابق الأول في نيجيريا، أنشئ عام 1842. هذا هو المكان الذي قام فيه صامويل أجاي كراودر الشهير بترجمة الكتاب المقدس الإنجليزي إلى لغة اليوروبا. يوجد في مجمع المبنى أول بئر مياه تم حفره في نيجيريا.",
+      "images": "assets/images/first_storey.jpg"
+    },
+    {
+      "name": "شاطئ سونتان",
+      "address": "باداجري 103241، لاغوس",
+      "description": "",
+      "images": "assets/images/badagry_beach.jpg"
+    }
+  ],
+  "interestUnilag": [
+    {
+      "name": "واجهة بحيرة Unilag",
+      "address": "GC2+J3P, Otunba Payne St, أكوكا, لاغوس 101245, لاغوس",
+      "description": "تم الكشف عن واجهة جامعة لاغوس لاجون التي تم تجديدها حديثًا.",
+      "images": "assets/images/Lagoon_front.jpg"
+    },
+    {
+      "name": "حديقة أديتوكونبو سوفولوي",
+      "address": "جامعة لاغوس، لاغوس 101245، لاغوس",
+      "description": "تمت إعادة تصميم حديقة مجلس الشيوخ الترفيهية السابقة وإعادة تسميتها تكريما لنائب رئيس جامعة UNILAG الراحل، البروفيسور Adetokunbo Sofoluwe.",
+      "images": "assets/images/Sofoluwe.jpg"
+    }
+  ],
+
+  "lasuhostel": [
+    {
+      "name": "سيتم استدعائك بقاعة أولاتونجي بيلو 1",
+      "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+      "image": "assets/images/Lasu_hostel.jpg"
+    },
+    {
+      "name": "سيتم استدعائك بقاعة أولاتونجي بيلو 2",
+      "address": "Lasu Main Rd, Ojo, Lagos 102101, Lagos",
+      "image": "assets/images/Lasu_hostel_2.jpg"
+    }
+  ]
+
+}
