@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert' as convert;
 
 class LocationService {
-  final String key = 'AIzaSyDRU72D_fjubLsAGmoVGniWwZxHZAqYvvc';
+  final String key = '';
 
   PolylinePoints polylinePoints = PolylinePoints();
 
